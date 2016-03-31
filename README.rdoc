@@ -1,7 +1,6 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Inspired by Wojtek Gorecki's My-Blog project. URL: http://9elements.com/io/index.php/an-ember-js-application-with-a-rails-api-backend/
 
 Things you may want to cover:
 
