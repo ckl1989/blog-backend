@@ -1,27 +1,15 @@
 == README
 
-Inspired by Wojtek Gorecki's My-Blog project. URL: http://9elements.com/io/index.php/an-ember-js-application-with-a-rails-api-backend/
+MyBlog (Backend only)- Project by Wojtek Gorecki
+http://9elements.com/io/index.php/an-ember-js-application-with-a-rails-api-backend/
 
-Things you may want to cover:
+This is the frontend implementation of a blog app. Users can post and view blog posts 
+as well as post and view comments on blog posts.
 
-* Ruby version
+This project is backend only and is complemented with an ember frontend found at: 
+https://github.com/ckl1989/blog-frontend
 
-* System dependencies
+This project is intended to exemplify the use of model relationships, routing, and rails controllers to push data 
+to a ember front end from a rails backend through a REST API Adapter.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Frontend: Rails 4
